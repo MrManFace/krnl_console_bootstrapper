@@ -1,0 +1,1 @@
+# krnl_console_bootstrapper
